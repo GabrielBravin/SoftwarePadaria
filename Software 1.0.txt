@@ -4,6 +4,10 @@ versao 2
 
 versao 3
 
+<<<<<<< HEAD
 Versão 4
 
 Versão 5
+=======
+VersÃ£o 20
+>>>>>>> origin/master
