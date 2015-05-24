@@ -7,7 +7,11 @@ versao 3
 <<<<<<< HEAD
 Versão 4
 
+<<<<<<< HEAD
 Versão 5
+=======
+versão 5
+>>>>>>> 97e2b8e6b567b7d8dd941a4671899989c3b9b338
 =======
 VersÃ£o 20
 >>>>>>> origin/master
